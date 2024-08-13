@@ -1,0 +1,12 @@
+# for jupyter
+jupyterlab
+numpy
+pandas
+plotly
+scikit-learn
+
+# for model fine-tuning
+accelerate
+datasets
+sentence_transformers
+transformers
