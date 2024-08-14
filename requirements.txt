@@ -10,3 +10,6 @@ accelerate
 datasets
 sentence_transformers
 transformers
+
+# pytorch
+torch
